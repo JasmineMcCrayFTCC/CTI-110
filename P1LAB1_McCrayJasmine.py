@@ -1,6 +1,6 @@
 # Jasmine McCray
 # P1LAB1_McCrayJasmine.py
-# This program does this
+# This program demonstrates the use of input and output statements.
 
 first_name = input("Enter your first name: ")
 last_name = input("Enter your last name: ")
